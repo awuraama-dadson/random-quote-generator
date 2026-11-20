@@ -64,4 +64,7 @@ Through this project, I practised:
 
 ---
 
+## Live site
+
+https://random-quote-generator-six-peach.vercel.app/
 Built as part of my journey learning JavaScript and frontend development.
